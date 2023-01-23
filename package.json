@@ -28,6 +28,7 @@
   },
   "dependencies": {
     "ansi-colors": "^4.1.1",
+    "keypress-browserify": "^0.2.3",
     "strip-ansi": "^6.0.1"
   },
   "devDependencies": {
